@@ -1,0 +1,60 @@
+Gender,Age,Major,CGPA,Marital_status,Depression,Anxiety,Panic_attack,Treatment
+Female,18,Engineering,3.21,No,Yes,No,Yes,No
+Male,21,Islamic education,3.09,No,No,Yes,No,No
+Male,19,BIT,3.11,No,Yes,Yes,Yes,No
+Female,22,Laws,3.02,Yes,Yes,No,No,No
+Male,23,Mathemathics,3.45,No,No,No,No,No
+Male,19,Engineering,3.68,No,No,No,Yes,No
+Female,23,Pendidikan islam,3.64,Yes,Yes,No,Yes,No
+Female,18,BCS,3.98,No,No,Yes,No,No
+Female,19,Human Resources,2.89,No,No,No,No,No
+Male,18,Irkhs,3.56,No,No,Yes,Yes,No
+Female,20,Psychology,3.99,No,No,No,No,No
+Female,24,Engineering,3.61,Yes,Yes,No,No,No
+Female,18,BCS,3.86,No,Yes,No,No,No
+Male,19,Engineering,3.98,No,No,No,No,No
+Female,18,KENMS,3.7,No,No,Yes,No,No
+Male,24,BCS,3.97,No,No,No,No,No
+Female,24,Accounting ,3.8,No,No,No,No,No
+Female,24,ENM,2.43,Yes,Yes,Yes,Yes,No
+Female,20,BIT,3.58,No,No,Yes,No,No
+Female,18,Marine science,2.57,Yes,Yes,Yes,Yes,No
+Female,19,Engineering,3.69,No,No,No,Yes,No
+Female,18,KOE,3.88,No,No,No,No,No
+Female,24,BCS,3.79,No,No,No,No,No
+Female,24,Engineering,3.75,No,No,No,No,No
+Female,23,BCS,3.02,No,Yes,Yes,Yes,No
+Female,18,Banking Studies,3.61,No,No,No,No,No
+Female,19,Engineering,3.76,No,No,No,No,No
+Male,18,Engineering,3.04,Yes,Yes,Yes,No,No
+Female,24,BIT,2.49,Yes,Yes,Yes,Yes,Yes
+Female,24,BCS,3.81,No,No,No,No,No
+Female,23,Business Administration,3.79,No,No,No,No,No
+Male,18,BCS,3.64,No,No,No,No,No
+Male,19,BCS,3.09,No,No,No,Yes,No
+Male,18,BCS,2.99,Yes,Yes,Yes,No,Yes
+Female,19,BIT,3.34,No,Yes,Yes,Yes,No
+Female,18,Engineering,3.71,No,No,No,No,No
+Female,18,Law,3.41,No,Yes,Yes,No,No
+Female,19,BIT,2.41,No,Yes,Yes,Yes,No
+Female,18,KIRKHS,3.66,No,No,No,No,No
+Female,24,Engineering,2.45,Yes,Yes,No,Yes,Yes
+Female,24,BIT,3.05,No,No,Yes,No,No
+Female,22,Engineering,3.45,No,No,No,No,No
+Female,20,Usuluddin ,3.21,No,Yes,No,No,No
+Male,20,BIT,0.65,No,No,No,No,No
+Male,23,TAASL,3.66,No,No,No,Yes,No
+Male,18,BCS,3.23,No,No,Yes,Yes,No
+Female,19,Engineering,3.41,No,No,Yes,No,No
+Female,18,Engine,3.66,No,No,No,No,No
+Male,24,BCS,3.21,No,Yes,No,No,No
+Female,24,BCS,3.56,No,No,No,Yes,No
+Female,23,ALA,2.56,Yes,Yes,No,Yes,Yes
+Female,18,BCS,3.47,No,No,Yes,No,No
+Female,19,Biomedical science,3.44,No,No,No,No,No
+Female,20,koe,3.21,Yes,Yes,Yes,Yes,No
+Female,19,BCS,3.8,No,Yes,No,Yes,Yes
+Male,21,BCS,3.89,No,No,No,No,No
+Male,23,Kirkhs,3.49,No,No,No,No,No
+Female,20,BENL,3.21,No,Yes,Yes,No,No
+Female,21,BCS,3.68,No,No,No,No,No
